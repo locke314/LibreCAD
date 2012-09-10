@@ -4250,7 +4250,7 @@ You can changes these settings later in the Options Dialog of QCad.</source>
     </message>
     <message>
         <source>&amp;Command Language:</source>
-        <translation>Я&amp;зык коммандной строки:</translation>
+        <translation>Я&amp;зык командной строки:</translation>
     </message>
     <message>
         <source>&amp;Show large crosshairs</source>
@@ -4314,7 +4314,7 @@ You can changes these settings later in the Options Dialog of QCad.</source>
     </message>
     <message>
         <source>Darkgray</source>
-        <translation type="obsolete">Темносерый</translation>
+        <translation type="obsolete">Темно-серый</translation>
     </message>
     <message>
         <source>#404040</source>
